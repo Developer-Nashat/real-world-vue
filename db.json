@@ -1,35 +1,74 @@
-[
-  {
-    "id": 123,
-    "category": "animal welfare",
-    "title": "Cat Adoption Day",
-    "description": "Find your new feline friend at this event.",
-    "location": "Meow Town",
-    "date": "January 28, 2022",
-    "time": "12:00",
-    "pestAllowd": true,
-    "organizer": "Kat Laydee"
-  },
-  {
-    "id": 456,
-    "category": "food",
-    "title": "Community Gardening",
-    "description": "Join us as we tend to the community edible plants.",
-    "location": "Flora City",
-    "date": "March 14, 2022",
-    "time": "10:00",
-    "pestAllowd": true,
-    "organizer": "Fern Pollin"
-  },
-  {
-    "id": 789,
-    "category": "sustainability",
-    "title": "Beach Cleanup",
-    "description": "Help pick up trash along the shore.",
-    "location": "Playa Del Carmen",
-    "date": "July 22, 2022",
-    "time": "11:00",
-    "pestAllowd": false,
-    "organizer": "Carey Wales"
-  }
-]
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "141287b4-95d8-4694-872f-fad4712782e9",
+      "category": "animal welfare",
+      "title": "Horse Brushing Race",
+      "description": "a fun event",
+      "location": "New York",
+      "date": "August 18, 2028",
+      "time": "12:00",
+      "organizer": "eng-Nashat Basel"
+    },
+    {
+      "id": "cbc7ed42-fe49-4a83-8bd6-68acb9539838",
+      "category": "animal welfare",
+      "title": "any animal",
+      "description": "for tesing",
+      "location": "unknown",
+      "date": "unknown",
+      "time": "unknown",
+      "organizer": "eng-Nashat Basel"
+    },
+    {
+      "id": "a93a0b48-ce79-4bc3-8d0c-f716c3f67e81",
+      "category": "animal welfare",
+      "title": "animal race",
+      "description": "a fun animal race",
+      "location": "Los Angelos",
+      "date": "Novmber 23, 2030",
+      "time": "12:00",
+      "organizer": "eng-Nashat Basel"
+    },
+    {
+      "id": "5190bde1-6d9b-4bf8-bc91-ce85241af5a0",
+      "category": "education",
+      "title": "title",
+      "description": "dec",
+      "location": "loc",
+      "date": "date",
+      "time": "time",
+      "organizer": "eng-Nashat Basel"
+    }
+  ]
+}
